@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Иван Салиндер</title>
+    <link>http://localhost:1313/ru/post/</link>
+      <atom:link href="http://localhost:1313/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Иван Салиндер</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Иван Салиндер</title>
+      <link>http://localhost:1313/ru/post/</link>
+    </image>
+    
+    <item>
+      <title>ЗАПИСЬ О ПРОШЛОЙ НЕДЕЛЕ</title>
+      <link>http://localhost:1313/ru/post/new-stage4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/new-stage4/</guid>
+      <description>&lt;p&gt;На прошлой неделе сдавали отчет по 4 лабораторной, скоро начнутся зачеты и экзамены.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Информационная безопасность сегодня</title>
+      <link>http://localhost:1313/ru/post/stage6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/stage6/</guid>
+      <description>&lt;p&gt;Информационная безопасность охватывает инструменты и процессы, используемые организациями для защиты информации. Сюда входят настройки  политик, предотвращающие доступ неавторизованных лиц к деловой или личной информации. Инфобез - это растущая и развивающаяся область, которая охватывает широкий спектр
+областей, от защиты сетей и инфраструктуры до тестирования и аудита.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Новый пост по прошлой неделе</title>
+      <link>http://localhost:1313/ru/post/new-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/new-post/</guid>
+      <description>&lt;p&gt;На прошлой неделе закончилось лето, начинается новый курс.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/ru/post/new-post5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/new-post5/</guid>
+      <description>&lt;p&gt;На прошлой неделе мы прошли новые приложения прикладных программ, сдали все экзамены и спокойно ушли на каникулы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций.</title>
+      <link>http://localhost:1313/ru/post/stage4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/stage4/</guid>
+      <description>&lt;p&gt;Огромная коллекция готовых шаблонов позволит вам быстро и без каких-либо навыков создать красиво оформленную презентацию. Каждый шаблон включает в себя набор из нескольких слайдов, которые вы можете добавлять вместе или по отдельности.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования.</title>
+      <link>http://localhost:1313/ru/post/stag5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/stag5/</guid>
+      <description>&lt;p&gt;Python. Python — язык программирования общего назначения с простым синтаксисом, что делает его идеальным для начинающих. &amp;hellip;
+JavaScript. JavaScript остается основным языком для веб‑разработки, отвечая за интерактивность и динамичность сайтов.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
